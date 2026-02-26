@@ -2,3 +2,6 @@
 valuable work sooner. The feedback loop is tight, and constant reviews help correct course quickly if needed. However, there is less
 predictability in the development cycle, timeline/cost are harder to guarantee early, and it requires high collaboration and discipline
 with strong stakeholder involvement. 
+(b) The Scrum Master ensures the team follows Scrum practices, removes impediments/blockers in the workflow, and protects the team from 
+unnecessary disruptions to keep collaboration healthy and productive. The Product Owner owns and prioritizes the product backlog to max
+out value. They also clarify requirements and criteria, represent stakeholder needs, and screens completed work. 
