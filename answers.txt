@@ -6,6 +6,11 @@ with strong stakeholder involvement.
 unnecessary disruptions to keep collaboration healthy and productive. The Product Owner owns and prioritizes the product backlog to max
 out value. They also clarify requirements and criteria, represent stakeholder needs, and screens completed work. 
 (c) There are 3 types of meetings during a sprint cycle:
-    1 - Sprint Planning: Define the Sprint Goal and select backlog items to commit to, break work into tasks, and confirm criteria/ risks
-    2 - Daily Scrum: Share progress and plan based on what is done for what comes next. Identify blockers and other coordination needs.
-    3 - Sprint Review: Demonstrate completed work to stakeholders, gather feedback and adjust priorities of backlog items accordingly.
+    Sprint Planning: Define the Sprint Goal and select backlog items to commit to, break work into tasks, and confirm criteria/ risks
+    Daily Scrum: Share progress and plan based on what is done for what comes next. Identify blockers and other coordination needs.
+    Sprint Review: Demonstrate completed work to stakeholders, gather feedback and adjust priorities of backlog items accordingly.
+(d) Epic vs Story vs Bug vs Task in Jira
+    Epic: Large initiative spanning multiple stories and/or sprints, used to group related work under a bigger goal.
+    Story: User-focused feature / requirement with acceptance criteria and user value, can typically get done in a sprint.
+    Bug: Defect where current behavior != expected behavior, often prioritized based on severity/impact
+    Task: A unit of work that may not be user-facing, and is either standalone or can be part of a story/epic.
