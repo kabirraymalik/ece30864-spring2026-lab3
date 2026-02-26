@@ -1,0 +1,4 @@
+(a) The Agile development strategy adapts quickly to chage, and it allows you to reprioritize the backlog and ship the most currently 
+valuable work sooner. The feedback loop is tight, and constant reviews help correct course quickly if needed. However, there is less
+predictability in the development cycle, timeline/cost are harder to guarantee early, and it requires high collaboration and discipline
+with strong stakeholder involvement. 
