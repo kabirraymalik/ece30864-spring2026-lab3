@@ -5,3 +5,7 @@ with strong stakeholder involvement.
 (b) The Scrum Master ensures the team follows Scrum practices, removes impediments/blockers in the workflow, and protects the team from 
 unnecessary disruptions to keep collaboration healthy and productive. The Product Owner owns and prioritizes the product backlog to max
 out value. They also clarify requirements and criteria, represent stakeholder needs, and screens completed work. 
+(c) There are 3 types of meetings during a sprint cycle:
+    1 - Sprint Planning: Define the Sprint Goal and select backlog items to commit to, break work into tasks, and confirm criteria/ risks
+    2 - Daily Scrum: Share progress and plan based on what is done for what comes next. Identify blockers and other coordination needs.
+    3 - Sprint Review: Demonstrate completed work to stakeholders, gather feedback and adjust priorities of backlog items accordingly.
